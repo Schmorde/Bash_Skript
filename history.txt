@@ -1,0 +1,512 @@
+   24  exit
+   25  phone mendes
+   26  phone michel
+   27  exit
+   28  phone sammler
+   29  exit
+   30  phone mathias
+   31  phone sammler
+   32  phone michel
+   33  phone braga
+   34  phone stuckenberg
+   35  phone grossmann
+   36  exit
+   37  phone simsek
+   38  phone oligschläger
+   39  phone oligschlaeger
+   40  exit
+   41  phone maja
+   42  exit
+   43  phone schroeter
+   44  exit
+   45  openrefine
+   46  ps ux
+   47  openrefine --help
+   48  openrefine -h
+   49  openrefine ui_tests
+   50  openrefine test
+   51  man openrefine
+   52  killall -9 openrefine
+   53  openrefine
+   54  exit
+   55  pwd
+   56  cd Desktop
+   57  ls
+   58  mv shell-lession/ shell-lesson
+   59  ls
+   60  exit
+   61  phone fritz
+   62  cd Desktop
+   63  ls
+   64  exit
+   65  phone lohoff
+   66  phone montgomery
+   67  phone bein
+   68  phone beinhoelzl
+   69  phone nathalie
+   70  phone borowiak
+   71  phone breuer
+   72  phone glathe
+   73  phone grasser
+   74  phone linda
+   75  phone gugnowska
+   76  phone jamshidi
+   77  phone kandia
+   78  phone kumral
+   79  phone lehmann
+   80  phone maguinness
+   81  phone morys
+   82  phone filip
+   83  phone muffel
+   84  phone toni
+   85  phone paul
+   86  phone piecha
+   87  phone fabian
+   88  phone poessel
+   89  phone roebbig
+   90  phone rose
+   91  phone schelinski
+   92  phone schneider
+   93  phone seiffarth
+   94  phone katharina
+   95  phone shih
+   96  phone tabas
+   97  phone uhlig
+   98  phone marie
+   99  phone burght
+  100  phone witt
+  101  phone zaragoza
+  102  phone jimenez
+  103  phone nestor
+  104  phone israel
+  105  phone lammert
+  106  phone mathis
+  107  phone magielse
+  108  phone wagner
+  109  phone eichner
+  110  phone numssen
+  111  phone barbashova
+  112  phone john
+  113  phone wiese
+  114  phone nierula
+  115  phone becker
+  116  exit
+  117  phone wagner
+  118  phone lewis
+  119  carolin
+  120  phone carolin
+  121  phone beinh
+  122  phone beinhoelzl
+  123  phone nathalie
+  124  phone grasser
+  125  phone morys
+  126  phone muffel
+  127  phone piecha
+  128  phone rose
+  129  phone schneider
+  130  phone seiffarth
+  131  phone uhlig
+  132  phone witt
+  133  phone lammert
+  134  phone dietrich
+  135  phone wagner
+  136  phone numssen
+  137  phone barbashova
+  138  phone john
+  139  phone wise
+  140  phone wiese
+  141  phone brammerloh
+  142  phone gosch
+  143  phone chaimow
+  144  phone degering
+  145  phone engert
+  146  phone handke
+  147  phone aldabbagh
+  148  phone ghoul
+  149  phone holzner
+  150  phone kanske
+  151  phone puhlmann
+  152  phone schaefer
+  153  phone lehmann
+  154  phone forschack
+  155  phone gugnowska
+  156  phone polyakova
+  157  phone thieleking
+  158  phone haenelt
+  159  phone turker
+  160  phone cesnaite
+  161  phone einaliyan
+  162  phone govaart
+  163  phone kalloch
+  164  phone kessler
+  165  phone koelsch
+  166  phone lutschka
+  167  phone kutschka
+  168  phone linz
+  169  phone maran
+  170  phone podranski
+  171  phone pyati
+  172  phone studenova
+  173  phone vollmann
+  174  phone wiegank
+  175  phone masri
+  176  phone erbey
+  177  phone herzog
+  178  phone kipping
+  179  phone neumann
+  180  phone pfeifer
+  181  phone steinfath
+  182  phone waltmann
+  183  phone zoraghi
+  184  phone dabas
+  185  phone speiger
+  186  phone ayyildiz
+  187  phone bergmann
+  188  phone devi
+  189  phone nitsch
+  190  phone nieberlein
+  191  phone garvert
+  192  phone herbst
+  193  phone lauckner
+  194  phone wang
+  195  phone berlger
+  196  phone belger
+  197  phone schulz
+  198  phone stephani
+  199  phone trettenbrein
+  200  phone benoit
+  201  phone chapman
+  202  phone glasewald
+  203  phone schmorde
+  204  phone roesch
+  205  phone staub
+  206  phone toews
+  207  phone nierula
+  208  phone elosegi
+  209  phone babayan
+  210  phone buchberger
+  211  phone chiarugi
+  212  phone forster
+  213  phone omalley
+  214  phone schaadt
+  215  phone tebbe
+  216  phone vignotto
+  217  phone magielse
+  218  phone akdeniz
+  219  phone contier
+  220  phone goltermann
+  221  phone grosse
+  222  phone hartmann
+  223  phone jeon
+  224  phone kozlov
+  225  phone maennel
+  226  phone papitto
+  227  phone reznik
+  228  phone roho
+  229  phone sammler
+  230  phone schaumberg
+  231  phone schmidt
+  232  phone schroen
+  233  phone torrescuso
+  234  phone torrecuso
+  235  phone wagner
+  236  phone werwach
+  237  phone zaccarella
+  238  phone jakovcic
+  239  exit
+  240  phone wagner
+  241  phone dabbagh
+  242  phone lenka
+  243  phone acil
+  244  phone chien
+  245  phone gallistl
+  246  phone gippert
+  247  phone gong
+  248  phone grigoryan
+  249  phone hofmann
+  250  phone horn
+  251  phone kapralov
+  252  phone kaptan
+  253  phone kim
+  254  phone koda
+  255  phone kohler
+  256  phone koper
+  257  phone menn
+  258  phone miller
+  259  phone ott
+  260  phone sehm
+  261  phone tenderra
+  262  phone wei
+  263  phone grund
+  264  phone berger
+  265  phone ku
+  266  phone 
+  267  phone kaniuth
+  268  phone gajiy
+  269  phone henke
+  270  phone jäger
+  271  phone jaeger
+  272  phone wallstein
+  273  phone eippert
+  274  phone gaebler
+  275  phone schneider
+  276  phone shih
+  277  phone van der burght
+  278  phone 
+  279  phone maguinness
+  280  phone paul
+  281  phone poessel
+  282  phone schelinski
+  283  phone lohoff
+  284  phone borowiak
+  285  pwd
+  286  ls
+  287  phone breuer
+  288  phone glathe
+  289  phone kandia
+  290  phone sulewski
+  291  phone marschner
+  292  phone medawar
+  293  phone morozova
+  294  phone müeller-axt
+  295  phone mueller-axt
+  296  phone mueller
+  297  phone ordnung
+  298  phone rysop
+  299  phone rzsido
+  300  phone zsido
+  301  phone hardikar
+  302  phone schueler
+  303  phone attar
+  304  phone chien
+  305  phone edwards
+  306  phone graessner
+  307  phone meyer
+  308  phone hsing-fen
+  309  phone beyer
+  310  phone cheung
+  311  phone horstmann
+  312  phone kayhan
+  313  phone langeloh
+  314  phone leutritz
+  315  phone mathias
+  316  phone michel
+  317  phone naud
+  318  phone paulus
+  319  phone pettini
+  320  phone schroeter
+  321  phone schulz
+  322  phone al
+  323  phone esra
+  324  phone kaminski
+  325  phone nikulin
+  326  phone skeide
+  327  phone bunde
+  328  phone helms
+  329  phone janssen
+  330  phone ragert
+  331  phone scheibe
+  332  phone teichmann
+  333  phone bailey
+  334  phone bujanow
+  335  phone engel
+  336  phone meyer
+  337  phone helbling
+  338  phone kenville
+  339  phone maudrich
+  340  phone becker
+  341  phone tabas
+  342  phone jauch
+  343  phone kirikina
+  344  phone kirilina
+  345  phone lee
+  346  phone vartanian
+  347  phone hebart
+  348  phone bazin
+  349  phone schaare
+  350  phone valk
+  351  phone klotzsche
+  352  phone pine
+  353  phone roth
+  354  phone martin
+  355  phone milosevic
+  356  phone flores
+  357  phone mendes
+  358  phone enk
+  359  phone singla
+  360  phone katzmann
+  361  phone mueller
+  362  phone serio
+  363  phone fritz
+  364  phone chen
+  365  phone witte
+  366  phone theves
+  367  phone sacher
+  368  phone hanisch
+  369  exit
+  370  phone becker
+  371  exit
+  372  pwd
+  373  cd Desktop
+  374  ls
+  375  cd shell-lesson/
+  376  pwd
+  377  mkdir firstdir
+  378  cd firstdir/
+  379  cd ..
+  380  cd firstdir/
+  381  cd -
+  382  ls
+  383  ls -l
+  384  ls -lh
+  385  cat 829-0.txt 
+  386  head 829-0.txt 
+  387  tail
+  388  cd Desktop
+  389  cd shell-lesson/
+  390  cat 829-0.txt 
+  391  head 829-0.txt 33504-0.txt 
+  392  head *.txt
+  393  head *.pdf
+  394  mv 829-0.txt gulliver.txt
+  395  ls
+  396  cp gulliver.txt gulliver-backup.txt
+  397  ls
+  398  mv firstdir/ backup
+  399  ls
+  400  mv gulliver-backup.txt backup/
+  401  ls
+  402  history
+  403  mkdir testordner
+  404  cd testordner/
+  405  cd ..
+  406  cd backup/
+  407  ls
+  408  cd ..
+  409  cd testordner/
+  410  ls
+  411  cd ..
+  412  cd backup/
+  413  ls -lh
+  414  head gulliver-backup.txt 
+  415  cd ..
+  416  cd testordner/
+  417  cd ..
+  418  cd testordner/
+  419  mkdir ordner
+  420  ls
+  421  cd ..
+  422  ls
+  423  rm -r testordner/
+  424  cd test
+  425  cd testordner/
+  426  rm ordner/
+  427  cd ..
+  428  rm -r testordner/
+  429  rm testordner/
+  430  cd testordner/
+  431  rm ordner/
+  432  cd ..
+  433  cd testordner/
+  434  ls
+  435  rm ordner/
+  436  cd ..
+  437  cd testordner/
+  438  ls
+  439  cd ..
+  440  history
+  441  history > history.txt
+  442  ls
+  443  head history.txt 
+  444  tail history.txt 
+  445  ls
+  446  head -2 history.txt 
+  447  echo 'Library Carpentry is aweseom'
+  448  echo 'Library Carpentry is awesom'
+  449  NAME=Patricia
+  450  echo '$NAME ist ein toller Name!'
+  451  echo "$NAME ist ein toller Name!"
+  452  $NAME
+  453  echo $(pwd)
+  454  ls
+  455  rm -i pg514.txt 
+  456  touch a.doc b.doc c.doc d.doc
+  457  ls
+  458  cp a.doc backup-a.doc
+  459  ls
+  460  for FILE in a.doc b.doc c.doc d.doc; do echo "$FILE"; cp "$FILE" backup_"FILE"; done
+  461  for FILE in a.doc b.doc c.doc d.doc; do echo "$FILE"; cp "$FILE" backup_"$FILE"; done
+  462  ls
+  463  for FILE in .doc; do echo "$FILE"; cp "$FILE" das_ist_eine_tolle_Datei_"FILE"; done
+  464  for FILE in ".doc"; do echo "$FILE"; cp "$FILE" das_ist_eine_tolle_Datei_"FILE"; done
+  465  for FILE in ".doc"; do echo "$FILE"; cp "$FILE" das_ist_eine_tolle_Datei_"$FILE"; done
+  466  for FILE in .doc; do echo "$FILE"; cp "$FILE" das_ist_eine_tolle_Datei_"$FILE"; done
+  467  for FILE in <.doc>; do echo "$FILE"; cp "$FILE" das_ist_eine_tolle_Datei_"$FILE"; done
+  468  for FILE in *.doc; do echo "$FILE"; cp "$FILE" das_ist_eine_tolle_Datei_"$FILE"; done
+  469  for FILE in *txt; do echo "$FILE" head - n1; done
+  470  for FILE in *txt; do echo "$FILE" head - n1 tail -1; done
+  471  for FILE in *txt; do echo "$FILE" head -n1 tail -1; done
+  472  for FILE in *txt; do echo "$FILE";  head -n 1 "§FILE"; tail -n 1 "$FILE"; done
+  473  $ for FILE in *txt; do echo "$FILE";  head -n 1 "§FILE"; tail -n 1 "$FILE"; done
+  474  $ for FILE in *txt; do echo "$FILE"; head -n 1 "§FILE"; tail -n 1 "$FILE"; done
+  475  $ for FILE in *.txt; do echo "$FILE"; head -n 1 "§FILE"; tail -n 1 "$FILE"; done
+  476  $ for FILE in *.txt; do  echo "$FILE"; head -n 1 "§FILE"; tail -n 1 "$FILE"; done
+  477  for FILE in *.txt; do  echo "$FILE"; head -n 1 "§FILE"; tail -n 1 "$FILE"; done
+  478  for FILE in *.txt; do  echo "$FILE"; head -n 1 "$FILE"; tail -n 1 "$FILE"; done
+  479  pwd
+  480  ls -lhS
+  481  head -n 2014-01_JA.tsv 
+  482  head -n3 2014-01_JA.tsv 
+  483  wc *.tsv
+  484  wc -l *.tsv
+  485  wc -l *.tsv > lengths.txt
+  486  ls
+  487  cat lengths.txt 
+  488  sort -n lengths.txt > sort-lengths.txt
+  489  cat sort-lengths.txt 
+  490  tail -1 sort-lengths.txt 
+  491  wc -l*.tsv | sort -n | tail -1
+  492  wc -l *.tsv | sort -n | tail -1
+  493  wc -l *.tsv | sort -n | head -1
+  494  nano mein_bash_skript.sh
+  495  ls
+  496  cat mein_bash_skript.sh 
+  497  bash mein_bash_skript.sh 
+  498  nano mein_bash_skript.sh 
+  499  cat mein_bash_skript.sh 
+  500  bash mein_bash_skript.sh 
+  501  ls
+  502  mkdir Bash_Skript
+  503  mv mein_bash_skript.sh  Bash_Skript/
+  504  cd Bash_Skript/
+  505  ls
+  506  git config --global user.name "Patricia Schmorde"
+  507  git config --global user.email "schmorde@cbs.mpg.de"
+  508  git init
+  509  ls
+  510  ls -a
+  511  exit
+  512  cd Desktop/shell-lesson/Bash_Skript/
+  513  ls -a
+  514  git status
+  515  git add mein_bash_skript.sh 
+  516  git status
+  517  git commit -m "Initial commit"
+  518  git status
+  519  nano README.md
+  520  git status
+  521  git add .
+  522  git commit -m "Add README.md"
+  523  git status
+  524  ls
+  525  git log
+  526  gitt diff 8b118 7bf7c 
+  527  git diff 8b118 7bf7c 
+  528  $ ssh-keygen -t rsa -b 4096 -C "schmorde@cbs.mpg.de"
+  529  cat ~/.ssh/id_rsa.pub
+  530  git remote add origin git@github.com:Schmorde/Bash_Skript.git
+  531  git branch -M main
+  532  git status
+  533  git push -u origin main
+  534  history
+  535  history > history.txt
